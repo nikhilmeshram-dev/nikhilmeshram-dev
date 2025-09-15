@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikhil Meshram | Azure Data Engineer  
 
-<!--
-**nikhilmeshram-dev/nikhilmeshram-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Azure Data Engineer | 2+ years of experience**  
+⚡ Skilled in building **ETL Pipelines, Data Warehouses, and Big Data Solutions** on Azure.  
+🏦 Domain expertise in **Banking & Retail** with focus on regulatory compliance, reporting & analytics.  
+📊 Passionate about **turning raw data → insights** using modern cloud technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools  
+
+- **Languages & Querying:** SQL | Python (PySpark)  
+- **Azure Services:** Data Factory | Databricks | Data Lake Gen2 | Synapse Analytics | Key Vault  
+- **Data Modeling:** Star Schema | SCD1/2 | Medallion Architecture  
+- **Data Lakehouse:** Delta Lake | Partitioning | Z-Ordering | Incremental Loads  
+
+---
+
+## ⚡ Achievements  
+
+✅ Designed and implemented **incremental & scalable pipelines**  
+✅ Hands-on with **Medallion Architecture** for structured data warehousing  
+✅ Experience in **secure data handling** with Azure Key Vault & RBAC  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: nikhilmeshram.dev@gmail.com
+
+---
+
+⭐️ *Always exploring new ways to optimize data pipelines and improve performance!*  
