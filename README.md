@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil Meshram | Azure Data Engineer  
+# 👋 Hi, I'm Nikhil Meshram 
 
 💼 **Azure Data Engineer | 2+ years of experience**  
 ⚡ Skilled in building **ETL Pipelines, Data Warehouses, and Big Data Solutions** on Azure.   
