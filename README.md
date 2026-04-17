@@ -16,8 +16,8 @@
 ---
 
 ##    Projects
-- ### [Retail ETL Data Pipeline using Azure & Delta Lake (Medallion Architecture)](https://github.com/nikhilmeshram-dev/azure-retail-data-pipeline-etl)
-  -  End-to-end ETL pipeline for the Retail domain using modern data engineering practices.
+- ### [Ecommerce ETL Data Pipeline using Azure & Delta Lake (Medallion Architecture)](https://github.com/nikhilmeshram-dev/azure-ecommerce-data-pipeline-etl)
+  -  End-to-end ETL pipeline for the Ecommerce domain using modern data engineering practices.
   -  The pipeline ingests raw data from multiple sources, transforms it into a clean, standardized format, and loads it into a data warehouse for business reporting and analytics.
 
 - ### [Banking ETL Data Pipeline using Azure & Delta Lake (Medallion Architecture)](https://github.com/nikhilmeshram-dev/azure-data-engineering-banking-etl)
@@ -34,7 +34,7 @@
 
 ## 📫 Connect with Me  
 
-- 📧 Email: nikhilmeshram.dev@gmail.com
+- 📧 Email: nikhilmeshram.tech@gmail.com
 
 ---
 
